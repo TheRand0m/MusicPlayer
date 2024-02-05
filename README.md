@@ -1,4 +1,4 @@
-# FXGL Music
+# Salavat's FXGL Music
 
 ```
 // TODO: the README below is outdated
